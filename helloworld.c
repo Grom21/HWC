@@ -1,6 +1,9 @@
-#iclude <stdio.h>
+#include <unistd.h>
 
-int main ()
+int main()
 {
-	printf("HelloWorld");
-	return 0;}
+	/*HW prog in C */
+
+	printf("HelloWorld!n");
+	return 0;
+}
